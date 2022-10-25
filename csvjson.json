@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Francisco, CA",
+        "content": "In 1922, she was born born in San Francisco in 1922, but the hard times and the promise of mountains of gold was not what her laundry worker father found when he came to San Francisco."
+      },
+      "geometry": {
+        "coordinates": [
+          -122.436230121188,
+          37.76419689189318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guangdong, China",
+        "content": "In 1927, her father proceeded to pack up his family and return to China with his wife and family"
+      },
+      "geometry": {
+        "coordinates": [
+          114.06023125547972,
+          24.067849162016543
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Angel Island, CA",
+        "content": "In 1940, she came from China ended up staying on Angel Island for the weekend because when family members went to get her, they forgot to bring her birth certificate. She married Tom Gong who she had only seen in a picture, but she had been living with her in-laws for the past year until her voyage back to the U.S."
+      },
+      "geometry": {
+        "coordinates": [
+          -122.42619644141959,
+          37.86954005654532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fresno, CA",
+        "content": "Followed her husband Tom to here."
+      },
+      "geometry": {
+        "coordinates": [
+          -119.78505395379806,
+          36.73843045232822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salinas, CA",
+        "content": "Followed her husband Tom to here."
+      },
+      "geometry": {
+        "coordinates": [
+          -121.65558891789473,
+          36.673482206599246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Santa Cruz, CA",
+        "content": "In 1943, they were officially married at the Santa Cruz Courthouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.02983029847886,
+          36.97370595824884
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Watsonville, CA",
+        "content": "Followed her husband Tom to here, as he worked in the grocery business and then chicken ranching. She worked alongside him as he took care of the chickens and eventually he changed careers to open a grocery store with friends. She passed away in 2005, a year after her beloved husband Tom."
+      },
+      "geometry": {
+        "coordinates": [
+          -121.75378046116357,
+          36.90878812446417
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
